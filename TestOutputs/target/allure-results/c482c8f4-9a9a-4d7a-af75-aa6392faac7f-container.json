@@ -1,0 +1,1 @@
+{"uuid":"c482c8f4-9a9a-4d7a-af75-aa6392faac7f","name":"Register.SignUpTC.quit","children":["a1e34124-d75f-4b12-b0ad-67f16da7d89e"],"description":"","befores":[],"afters":[{"name":"quit","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1715964934790,"stop":1715964934790}],"start":1715964934789,"stop":1715964934790}

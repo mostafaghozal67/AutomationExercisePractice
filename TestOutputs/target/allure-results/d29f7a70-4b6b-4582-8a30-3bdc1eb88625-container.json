@@ -1,0 +1,1 @@
+{"uuid":"d29f7a70-4b6b-4582-8a30-3bdc1eb88625","name":"AccountCreatedTC.quit","children":["766a0f6d-ae3a-4350-8d80-3b7d1c6eb282"],"description":"","befores":[],"afters":[{"name":"quit","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1715036191637,"stop":1715036192304}],"start":1715036191636,"stop":1715036192304}

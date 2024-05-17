@@ -1,0 +1,1 @@
+{"uuid":"c4000fc4-e9ab-4171-bca9-fa37417be3e1","name":"LogoutUserTC.openBrowser","children":["0b508c9c-e9b8-45b3-8436-a0e4c7d008a1"],"description":"","befores":[{"name":"openBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1715944017648,"stop":1715944024962}],"afters":[],"start":1715944017647,"stop":1715944024962}

@@ -1,0 +1,20 @@
+{
+  "gender" : "Mr",
+  "username" : "mostafa",
+  "email" : "mostafa",
+  "password": "pass123",
+  "day" : "17",
+  "month" : "October",
+  "year" : "2010",
+  "firstName" : "mostafa",
+  "lastName" : "ghozal",
+  "company" : "abcc",
+  "address" : "asd",
+  "country" : "United States",
+  "state" : "alex",
+  "city" : "alexandria",
+  "zipCode" : "1223",
+  "mobileNumber" : "12345678"
+
+
+}

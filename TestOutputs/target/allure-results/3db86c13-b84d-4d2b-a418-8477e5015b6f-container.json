@@ -1,0 +1,1 @@
+{"uuid":"3db86c13-b84d-4d2b-a418-8477e5015b6f","name":"RemoveProductsFromCartTC.quit","children":["dfdcf220-bdd5-4fd5-b519-16568ceee065"],"description":"","befores":[],"afters":[{"name":"quit","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1715939489414,"stop":1715939489414}],"start":1715939489414,"stop":1715939489414}

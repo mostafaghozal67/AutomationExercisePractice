@@ -1,0 +1,1 @@
+{"uuid":"68037938-3250-4312-b621-165fc576987f","name":"Home.HomeTC.openBrowser","children":["217bd45b-2413-438a-82d0-3e17d91fe899"],"description":"","befores":[{"name":"openBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1715858074108,"stop":1715858080889}],"afters":[],"start":1715858074108,"stop":1715858080889}

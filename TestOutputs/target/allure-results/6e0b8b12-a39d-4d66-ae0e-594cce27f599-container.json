@@ -1,0 +1,1 @@
+{"uuid":"6e0b8b12-a39d-4d66-ae0e-594cce27f599","name":"AccountDeletedTC.quit","children":["59156cc9-18b7-46e4-b91d-d55501ab7d46"],"description":"","befores":[],"afters":[{"name":"quit","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1715037906849,"stop":1715037907507}],"start":1715037906848,"stop":1715037907507}

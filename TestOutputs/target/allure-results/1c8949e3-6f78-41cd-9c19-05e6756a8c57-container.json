@@ -1,0 +1,1 @@
+{"uuid":"1c8949e3-6f78-41cd-9c19-05e6756a8c57","name":"CartsTC.quit","children":["df9c332b-5006-4e05-a4d3-5029746799f1"],"description":"","befores":[],"afters":[{"name":"quit","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1715713321976,"stop":1715713321976}],"start":1715713321976,"stop":1715713321976}

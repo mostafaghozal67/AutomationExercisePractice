@@ -1,0 +1,1 @@
+{"uuid":"b2da3cab-ca8f-416f-973f-736507a64a04","name":"TestCasesTC.quit","children":["30e46ec2-855c-4473-a5f4-0c51bb61dca6"],"description":"","befores":[],"afters":[{"name":"quit","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1715884336402,"stop":1715884336402}],"start":1715884336402,"stop":1715884336402}

@@ -1,0 +1,1 @@
+{"uuid":"c4922338-bf3c-427f-b725-0efe8c406e03","name":"CartsTC.openBrowser","children":["df9c332b-5006-4e05-a4d3-5029746799f1"],"description":"","befores":[{"name":"openBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1715713314017,"stop":1715713320326}],"afters":[],"start":1715713314017,"stop":1715713320326}
